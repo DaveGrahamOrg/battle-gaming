@@ -58,9 +58,9 @@
     <item href="Text/srd-topic-wound-classification.xhtml" id="id39" media-type="application/xhtml+xml"/>
     <item href="Text/srd-topic-wound-rules.xhtml" id="id40" media-type="application/xhtml+xml"/>
     <item href="Text/srd-topic-zombie-creature-class.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="Text/license.xhtml" id="id42" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="id42"/>
     <itemref idref="start"/>
     <itemref idref="id13"/>
     <itemref idref="id36"/>
@@ -104,6 +104,8 @@
     <itemref idref="id15"/>
     <itemref idref="id26"/>
     <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id42"/>
     </spine>
   <guide/>
 </package>
