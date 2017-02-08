@@ -16,70 +16,82 @@
   <manifest>
     <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="srd-topic-archer-player-class.html" id="id" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-armor-rules.html" id="id1" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-attacker-actions.html" id="id2" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-combat-rules.html" id="id3" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-common-healer-player-class.html" id="id4" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-commoner-player-class.html" id="id5" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-defenders-choice-actions.html" id="id6" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-drow-elf-creature-class.html" id="id7" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-elf-creature-class.html" id="id8" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-goblin-creature-class.html" id="id9" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-handheld-weapon-damage-classes.html" id="id10" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-hill-giant-creature-class.html" id="id11" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-human-creature-class.html" id="id12" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-introduction.html" id="id13" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-optional-combat-rules.html" id="id14" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-ork-creature-class.html" id="id15" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-player-and-creature-class-template.html" id="id16" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-projectile-weapon-damage-classes.html" id="id17" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-projectile-weapon-rules.html" id="id18" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-referee-player-class.html" id="id19" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-relic-definitions.html" id="id20" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-relic-rules.html" id="id21" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-shield-definitions.html" id="id22" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-shield-rules.html" id="id23" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-shield-size-classes.html" id="id24" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-shield-use-classes.html" id="id25" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-skeleton-creature-class.html" id="id26" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-sports-actions.html" id="id27" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-striking-definitions.html" id="id28" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-striking-rules.html" id="id29" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-target-zone-classification.html" id="id30" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-target-zone-rules.html" id="id31" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-warrior-healer-player-class.html" id="id32" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-warrior-player-class.html" id="id33" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-weapon-grouping-classes.html" id="id34" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-weapon-mass-classes.html" id="id35" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-weapon-part-definitions.html" id="id36" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-weapon-size-classes.html" id="id37" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-weapon-use-classes.html" id="id38" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-wound-classification.html" id="id39" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-wound-rules.html" id="id40" media-type="application/xhtml+xml"/>
-    <item href="srd-topic-zombie-creature-class.html" id="id41" media-type="application/xhtml+xml"/>
-    <item href="Text/License.xhtml" id="id42" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-archer-player-class.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-armor-rules.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-attacker-actions.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-combat-rules.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-common-healer-player-class.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-commoner-player-class.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-defenders-choice-actions.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-drow-elf-creature-class.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-elf-creature-class.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-goblin-creature-class.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-handheld-weapon-damage-classes.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-hill-giant-creature-class.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-human-creature-class.xhtml" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-introduction.xhtml" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-optional-combat-rules.xhtml" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-ork-creature-class.xhtml" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-player-and-creature-class-template.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-projectile-weapon-damage-classes.xhtml" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-projectile-weapon-rules.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-referee-player-class.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-relic-definitions.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-relic-rules.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-shield-definitions.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-shield-rules.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-shield-size-classes.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-shield-use-classes.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-skeleton-creature-class.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-sports-actions.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-striking-definitions.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-striking-rules.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-target-zone-classification.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-target-zone-rules.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-warrior-healer-player-class.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-warrior-player-class.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-grouping-classes.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-mass-classes.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-part-definitions.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-size-classes.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-use-classes.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-wound-classification.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-wound-rules.xhtml" id="id40" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-zombie-creature-class.xhtml" id="id41" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
+    <itemref idref="id42"/>
     <itemref idref="start"/>
-    <itemref idref="id10"/>
-    <itemref idref="id40"/>
+    <itemref idref="id13"/>
     <itemref idref="id36"/>
     <itemref idref="id37"/>
     <itemref idref="id35"/>
     <itemref idref="id34"/>
     <itemref idref="id38"/>
-    <itemref idref="id13"/>
-    <itemref idref="id1"/>
+    <itemref idref="id10"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
     <itemref idref="id22"/>
     <itemref idref="id24"/>
     <itemref idref="id25"/>
     <itemref idref="id23"/>
+    <itemref idref="id1"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id27"/>
     <itemref idref="id2"/>
     <itemref idref="id3"/>
     <itemref idref="id14"/>
     <itemref idref="id6"/>
     <itemref idref="id16"/>
+    <itemref idref="id33"/>
+    <itemref idref="id32"/>
     <itemref idref="id19"/>
     <itemref idref="id5"/>
     <itemref idref="id4"/>
@@ -90,21 +102,8 @@
     <itemref idref="id9"/>
     <itemref idref="id11"/>
     <itemref idref="id15"/>
-    <itemref idref="id17"/>
-    <itemref idref="id18"/>
-    <itemref idref="id20"/>
-    <itemref idref="id21"/>
     <itemref idref="id26"/>
-    <itemref idref="id27"/>
-    <itemref idref="id28"/>
-    <itemref idref="id29"/>
-    <itemref idref="id30"/>
-    <itemref idref="id31"/>
-    <itemref idref="id32"/>
-    <itemref idref="id33"/>
-    <itemref idref="id39"/>
     <itemref idref="id41"/>
-    <itemref idref="id42"/>
-  </spine>
+    </spine>
   <guide/>
 </package>
