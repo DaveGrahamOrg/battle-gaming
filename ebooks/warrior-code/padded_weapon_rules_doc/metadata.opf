@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">74f2905f-49a0-4086-bb81-7994795e8a7d</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">1d3b1c54-cd5f-4f05-b0f7-891a705b3cb3</dc:identifier>
+    <dc:title>Warrior Code Padded Weapon Rules</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">David W. Graham</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.79.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>eng</dc:language>
+  </metadata>
+  <manifest>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/pwr-topic-weapon-internal-parts-defintions.xhtml" id="idx" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-grouping-classes.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-mass-classes.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-part-definitions.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="Text/srd-topic-weapon-size-classes.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-foam-type-defintions.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-core-rules.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-sizing-rules.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-blade-or-bludgeon-rules.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-haft-and-shaft-rules.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-sharp-point-thrusting-point-rules.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-pommel-rules.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-cover-rules.xhtml" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Text/pwr-topic-weapon-interior-construction-rules.xhtml" id="id12" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id3"/>
+    <itemref idref="idx"/>
+    <itemref idref="id1"/>
+    <itemref idref="id4"/>
+    <itemref idref="id2"/>
+    <itemref idref="id"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide/>
+</package>
