@@ -15,6 +15,7 @@ $importSources = @(
 	)
 Copy-Item -Path $importSources -Destination "ebooks\warrior-code\sys-core-doc\Text"
 $importItems = $importSources -replace "shared-content", "warrior-code\sys-core-doc\Text"
+Add-Content $importItems "<!-- WARNING: This file was imported from another project and all edits will be overwritten by the next build.-->`r`n"
 Compress-Archive -Path "ebooks\warrior-code\sys-core-doc" -DestinationPath "publish\Warrior-Code-System-Core-Document.zip"
 Rename-Item -Path "publish\Warrior-Code-System-Core-Document.zip" -NewName "Warrior-Code-System-Core-Document.epub"
 Write-Output "Built publish\Warrior-Code-System-Core-Document.epub"
