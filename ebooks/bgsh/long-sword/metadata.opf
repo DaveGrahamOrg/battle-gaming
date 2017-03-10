@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">24066eac-d3d3-47ce-9ae0-0d434e17a4be</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">83c451dd-b0d9-4868-825b-496965baa485</dc:identifier>
+    <dc:title>Battle Gaming Long Sword</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">David W. Graham</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.79.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>eng</dc:language>
+  </metadata>
+  <manifest>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/information.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="Text/introduction.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="Styles/how-to-book-style.css" id="id2" media-type="text/css"/>
+    <item href="Images/64px-Warning_icon.svg.png" id="id3" media-type="image/png"/>
+    <item href="Text/rules.xhtml" id="id4" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id4"/>
+  </spine>
+  <guide/>
+</package>

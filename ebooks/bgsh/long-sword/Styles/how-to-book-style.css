@@ -1,0 +1,46 @@
+@charset utf-8;
+/* Styles for Battle Gaming Long Sword */
+.book-content {
+  text-align:justify;
+}
+.warning {
+  text-align: center;
+  color: red;
+  font-variant: small-caps;
+}
+.warning-content {
+  color: red;
+  border-style: solid;
+  border-color: red;
+  text-align:justify;
+  padding: 10px 10px 10px 10px;
+  background-image: url('../Images/64px-Warning_icon.svg.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 74px;  /* width of the image plus a little extra padding */
+  display: block; 
+}
+h1 {
+  text-align: center;
+  font-variant: small-caps;
+}
+h2 {
+  text-align: center;
+  font-variant: small-caps;
+}
+h3 {
+  text-align: center;
+  font-variant: small-caps;
+}
+.book-table{
+  font-size: 80%;
+  text-align: left;
+  
+}
+.table-label {
+  font-weight: bold;
+}
+
+td.table-cell{
+
+}
